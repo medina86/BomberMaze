@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 99135ce312824744e9903441fbe991b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RocksSmallPrefab: {fileID: 1023868080279898813, guid: 28c8dfa9fed21564991a0487de524460, type: 3}
+  - SiegeRamPrefab: {fileID: 2344496613280404675, guid: cf2996a0a44ec4447bf9db55106cd12a, type: 3}
+  - SiegeTrebuchetPrefab: {fileID: 9063045156842477571, guid: aa176606a9e13c842ae7509fb29da4df, type: 3}
+  - TowerSquarePrefab: {fileID: 9118048015221753872, guid: 5d9844b2a5b18ce44aa31b7ae919aba6, type: 3}
+  - SquareTopPrefab: {fileID: 6921223298014344045, guid: 13a42994b29db7242840069822a8bd40, type: 3}
+  - wallPrefab: {fileID: 6279885958314054642, guid: 857d9da8e54f647408f241490c1bcafb, type: 3}
+  - Player: {fileID: 1014665301586753341, guid: acabd11ce0d95a0459ea9e000daa5a57, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
